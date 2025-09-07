@@ -1,2 +1,3 @@
-test
-changed test
+test1
+changed test1
+new line in IDEA
