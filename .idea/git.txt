@@ -2,3 +2,4 @@ test1
 changed test1
 new line
 new line in IDEA
+new branch
